@@ -7,3 +7,6 @@ Meu primeiro projeto do Programa ONE - Oracle Next Education em parceria com a A
 # 📁 Acesso ao projeto
 
 https://jogo-numero-secreto-gsr13.vercel.app
+
+
+
